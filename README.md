@@ -11,3 +11,8 @@
 The data must be formatted as shown above so that the program can run properly. 
 The top row is used for allocation. The second row is used for the max. And the final row handles the 
 availability. 
+
+
+Compile:
+g++ bankers.cpp -o bankers
+./bankers
